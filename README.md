@@ -20,9 +20,10 @@ Lists
 |[data-govuk](lists/dgu) |[https://data.gov.uk/dataset/list-of-internal-drainage-boards](https://data.gov.uk/dataset/list-of-internal-drainage-boards)|
 |[cloudstore-buyers](lists/cloudstore-buyers) |[Public Sector organisations eligible to use cloudstore](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)|
 |[government-domain](lists/government-domain) |[Government domains](https://www.gov.uk/government/publications/list-of-gov-uk-domain-names)|
+|[legislation](lists/legislation) |[legislation](http://www.legislation.gov.uk/all?title=%22drainage%20board%22)|
+|[ada](lists/ada) |[Association of Drainage Authorities](http://www.ada.org.uk) — a company representing the interests of member IDBs.|
 
-Other possible sources of data used to seed the register include [legislation](http://www.legislation.gov.uk/all?title=%22drainage%20board%22), related datasets published on [data.gov.uk](https://data.gov.uk/data/search?q=internal+drainage+board) and the [Association of Drainage Authorities (ADA)](http://www.ada.org.uk/) — a company representing the interests of some IDBs.
-
+Other possible sources of data used to seed the register include related datasets published on [data.gov.uk](https://data.gov.uk/data/search?q=internal+drainage+board).
 
 # Licence
 
