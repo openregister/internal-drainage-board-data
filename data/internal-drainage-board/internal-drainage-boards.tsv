@@ -2,10 +2,10 @@ internal-drainage-board	name	legislation	start-date	end-date
 IDB01	Ainsty Internal Drainage Board	uksi-2011-820	2011-01-18	
 IDB02	Airedale Drainage Commissioners			
 IDB03	Alconbury and Ellington Internal Drainage Board			
-IDB04	Ancholme Internal Drainage Board			
+IDB04	Ancholme Internal Drainage Board	uksi-1973-689		
 IDB05	Axe Brue Internal Drainage Board	uksi-2012-1024	2012-01-11	
 IDB06	Isle of Axholme and North Nottinghamshire Water Level Management Board	uksi-2011-819	2011-01-20	
-IDB07	Bedfordshire and River Ivel Internal Drainage Board			
+IDB07	Bedfordshire and River Ivel Internal Drainage Board	uksi-1993-1041		
 IDB08	Benwick Internal Drainage Board			
 IDB09	Beverley and North Holderness Internal Drainage Board			
 IDB10	Black Drain Internal Drainage Board			
@@ -27,7 +27,7 @@ IDB25	Downham and Stow Bardolph Internal Drainage Board
 IDB26	Earby and Salterforth Internal Drainage Board			
 IDB27	East Harling Internal Drainage Board 			
 IDB28	East of Ouse Polver and Nar Internal Drainage Board			
-IDB29	East Suffolk Internal Drainage Board			
+IDB29	East Suffolk Internal Drainage Board	uksi-2008-750		
 IDB30	Euximoor Internal Drainage Board			
 IDB31	Feldale Internal Drainage Board			
 IDB32	Foss Internal Drainage Board			
@@ -43,7 +43,7 @@ IDB41	Lakenheath Internal Drainage Board
 IDB42	Lindsey Marsh Drainage Board			
 IDB43	Littleport and Downham Internal Drainage Board			
 IDB44	Lower Medway Internal Drainage Board 			
-IDB45	Lower Severn Internal Drainage Board			
+IDB45	Lower Severn Internal Drainage Board	uksi-2005-430		
 IDB46	Manea and Welney District Drainage Commissioners			
 IDB47	March west and White Fen Internal Drainage Board 	uksi-2016-482	2016-04-02	
 IDB48	March Third District Drainage Commissioners 			
@@ -82,7 +82,7 @@ IDB80	Romney Marshes Area Internal Drainage Board
 IDB81	Sawtry Internal Drainage Board			
 IDB82	Scunthorpe and Gainsborough Water Management Board			
 IDB83	Selby Area Internal Drainage Board			
-IDB84	South Holderness Internal Drainage Board			
+IDB84	South Holderness Internal Drainage Board	uksi-2013-819		
 IDB85	South Holland Internal Drainage Board			
 IDB86	Southery and District Internal Drainage Board			
 IDB87	Sow and Penk Internal Drainage Board			
@@ -98,7 +98,7 @@ IDB96	Trent Valley Internal Drainage Board
 IDB97	Upper Medway Internal Drainage Board			
 IDB98	Upper Witham Internal Drainage Board			
 IDB99	Upwell Internal Drainage Board			
-IDB100	Vale of Pickering Internal Drainage Board			
+IDB100	Vale of Pickering Internal Drainage Board	uksi-2014-1030		
 IDB101	Waldersey Internal Drainage Board			
 IDB102	Warboys Somersham and Pidley Internal Drainage Board			
 IDB103	Waterbeach Internal Drainage Board			
