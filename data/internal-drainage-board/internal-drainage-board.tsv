@@ -1,33 +1,47 @@
 Internal-drainage-board	Name	Legislation	Start-date	End-date
-IDB01	Ainsty Internal Drainage Board	uksi-2011-820	18/01/2011	
+IDB01	Ainsty Internal Drainage Board	uksi-2011-820	2011-01-18	
 IDB02	Airedale Drainage Commissioners			
 IDB03	Alconbury and Ellington Internal Drainage Board			
 IDB04	Ancholme Internal Drainage Board	uksi-1973-689		
-IDB05	Axe Brue Internal Drainage Board	uksi-2012-1024	11/01/2012	
-IDB06	Isle of Axholme and North Nottinghamshire Water Level Management Board	uksi-2011-819	20/01/2011	
+IDB05	Axe Brue Internal Drainage Board	uksi-2012-1024	2012-01-11	
+IDB06	Isle of Axholme and North Nottinghamshire Water Level Management Board	uksi-2011-819	2011-01-20	
 IDB07	Bedfordshire and River Ivel Internal Drainage Board	uksi-1993-1041		
 IDB08	Benwick Internal Drainage Board			
 IDB09	Beverley and North Holderness Internal Drainage Board			
 IDB10	Black Drain Internal Drainage Board			
+IDB100	Vale of Pickering Internal Drainage Board	uksi-2014-1030		
+IDB101	Waldersey Internal Drainage Board			
+IDB102	Warboys Somersham and Pidley Internal Drainage Board			
+IDB103	Waterbeach Internal Drainage Board			
+IDB104	Wavenery Lower Yare and Lothingland Internal Drainage Board	uksi-2006-2140	2006-09-01	
+IDB105	Welland and Deepings Internal Drainage Board			
+IDB107	Whittlesey and District Internal Drainage Board	uksi-2011-814		
+IDB108	Witham First District Internal Drainage Board			
+IDB109	Witham Third District	uksi-1993-910		
 IDB11	Black Sluice Internal Drainage Board			
+IDB110	Witham Fourth District Internal Drainage Board	uksi-2011-437		
+IDB111	Woodwalton Internal Drainage Board			
+IDB112	North Kent Marshes Internal Drainage Board	uksi-2016-859	2016-08-23	
+IDB113	Pevensey and Cuckmere Water Level Management Board	uksi-2016-854	2016-10-01	
+IDB116	River Arun Internal Drainage District			
 IDB12	Bluntisham Internal Drainage Board			
-IDB13	Braunton Marsh Internal Drainage Board		19/01/2006	
-IDB14	Broads Internal Drainage Board	uksi-2006-773	01/04/2006	
+IDB13	Braunton Marsh Internal Drainage Board		2006-01-19	
+IDB14	Broads Internal Drainage Board	uksi-2006-773	2006-04-01	
 IDB15	Buckingham and River Ouzel Internal Drainage Board			
 IDB16	Burnt Fen Internal Drainage Board			
 IDB17	Cawdle Fen Internal Drainage Board			
 IDB18	Churchfield and Plawfield Internal Drainage Board			
 IDB19	Conington and Holme Internal Drainage Board			
-IDB20	Cowick and Snaith Internal Drainage Board		11/02/2012	
-IDB21	Curf and Wimblington Combined Internal Drainage Board	uksi-2007-620	01/04/2007	
+IDB20	Cowick and Snaith Internal Drainage Board		2012-02-11	
+IDB21	Curf and Wimblington Combined Internal Drainage Board	uksi-2007-620	2007-04-01	
 IDB22	Danvm Drainage Commissioners	uksi- 2012-1026		
 IDB23	Dempster Internal Drainage Board			
-IDB24	Doncaster East Internal Drainage Board		11/02/2012	
+IDB24	Doncaster East Internal Drainage Board		2012-02-11	
 IDB25	Downham and Stow Bardolph Internal Drainage Board			
 IDB26	Earby and Salterforth Internal Drainage Board			
 IDB27	East Harling Internal Drainage Board			
 IDB28	East of Ouse Polver and Nar Internal Drainage Board			
-IDB29	East Suffolk Internal Drainage Board	uksi-2008-750	01/04/2008	
+IDB29	East Suffolk Internal Drainage Board	uksi-2008-750	2008-04-01	
 IDB30	Euximoor Internal Drainage Board			
 IDB31	Feldale Internal Drainage Board			
 IDB32	Foss Internal Drainage Board	uksi-2011-810		
@@ -37,15 +51,15 @@ IDB35	Haddenham Level Drainage Commissioners
 IDB36	Holmewood and District Internal Drainage Board			
 IDB37	Hundred Foot Washes Internal Drainage Board			
 IDB38	Hundred of Wisbech Internal Drainage Board			
-IDB39	King's Lynn Internal Drainage Board	uksi-2013-3317	25/10/2013	
+IDB39	King's Lynn Internal Drainage Board	uksi-2013-3317	2013-10-25	
 IDB40	Kyle and Upper Ouse Internal Drainage Board			
 IDB41	Lakenheath Internal Drainage Board			
 IDB42	Lindsey Marsh Drainage Board			
 IDB43	Littleport and Downham Internal Drainage Board			
 IDB44	Lower Medway Internal Drainage Board			
-IDB45	Lower Severn Internal Drainage Board	uksi-2005-430	01/04/2005	
+IDB45	Lower Severn Internal Drainage Board	uksi-2005-430	2005-04-01	
 IDB46	Manea and Welney District Drainage Commissioners			
-IDB47	March west and White Fen Internal Drainage Board	uksi-2016-482	02/04/2016	
+IDB47	March west and White Fen Internal Drainage Board	uksi-2016-482	2016-04-02	
 IDB48	March Third District Drainage Commissioners			
 IDB49	March Fifth District Drainage Commissioners			
 IDB50	March Sixth District Drainage Commissioners			
@@ -54,21 +68,21 @@ IDB52	Melverley Internal Drainage Board
 IDB53	Middle Fen and Mere Internal Drainage Board			
 IDB54	Middle Level Commissioners			
 IDB55	Mildenhall Internal Drainage Board			
-IDB56	Needham and Ladus Internal Drainage Board		25/02/2012	
+IDB56	Needham and Ladus Internal Drainage Board		2012-02-25	
 IDB57	Nightlayers Internal Drainage Board			
 IDB58	Nordelph Internal Drainage Board			
 IDB59	Norfolk Rivers Internal Drainage Board			
 IDB60	North East Lindsey Drainage Board			
-IDB61	North Level District Internal Drainage Board	uksi-2005-3601	10/02/2006	
-IDB62	North Somerset Levels Internal Drainage Board	uksi-2005-2725	01/11/2005	
+IDB61	North Level District Internal Drainage Board	uksi-2005-3601	2006-02-10	
+IDB62	North Somerset Levels Internal Drainage Board	uksi-2005-2725	2005-11-01	
 IDB63	Northwold Internal Drainage Board			
 IDB64	Old West Internal Drainage Board			
 IDB65	Ouse and Derwent Internal Drainage Board			
-IDB66	Ouse and Humber Drainage Board	uksi-2012-1030	11/02/2012	
+IDB66	Ouse and Humber Drainage Board	uksi-2012-1030	2012-02-11	
 IDB67	Over and Willingham Internal Drainage Board			
 IDB68	Padnal and Waterden Internal Drainage Board			
-IDB69	Parrett Internal Drainage Board	uksi-2005-431	01/04/2005	
-IDB70	Ramsey Internal Drainage Board	uksi-2005-2477	01/10/2005	
+IDB69	Parrett Internal Drainage Board	uksi-2005-431	2005-04-01	
+IDB70	Ramsey Internal Drainage Board	uksi-2005-2477	2005-10-01	
 IDB71	Ramsey First (Hollow) Internal Drainage Board			
 IDB72	Ramsey Fourth (Middlemoor) Internal Drainage Board			
 IDB73	Ramsey Upwood and Great Raveley Internal Drainage Board			
@@ -80,9 +94,9 @@ IDB78	River Lugg Internal Drainage Board
 IDB79	River Stour (Kent) Internal Drainage Board			
 IDB80	Romney Marshes Area Internal Drainage Board			
 IDB81	Sawtry Internal Drainage Board			
-IDB82	Scunthorpe and Gainsborough Water Management Board		27/01/2011	
+IDB82	Scunthorpe and Gainsborough Water Management Board		2011-01-27	
 IDB83	Selby Area Internal Drainage Board			
-IDB84	South Holderness Internal Drainage Board	uksi-2013-819	07/02/2013	
+IDB84	South Holderness Internal Drainage Board	uksi-2013-819	2013-02-07	
 IDB85	South Holland Internal Drainage Board			
 IDB86	Southery and District Internal Drainage Board			
 IDB87	Sow and Penk Internal Drainage Board			
@@ -91,24 +105,10 @@ IDB89	Strine Internal Drainage Board
 IDB90	Stringside Internal Drainage Board			
 IDB91	Sutton and Mepal Internal Drainage Board			
 IDB92	Swaffham Internal Drainage Board			
-IDB93	Swale and Ure Internal Drainage Board	uksi-2012-1031	14/01/2012	
+IDB93	Swale and Ure Internal Drainage Board	uksi-2012-1031	2012-01-14	
 IDB94	Swavesey Internal Drainage Board			
 IDB95	Thorntree Internal Drainage Board			
-IDB96	Trent Valley Internal Drainage Board		11/02/2012	
+IDB96	Trent Valley Internal Drainage Board		2012-02-11	
 IDB97	Upper Medway Internal Drainage Board			
 IDB98	Upper Witham Internal Drainage Board			
 IDB99	Upwell Internal Drainage Board			
-IDB100	Vale of Pickering Internal Drainage Board	uksi-2014-1030		
-IDB101	Waldersey Internal Drainage Board			
-IDB102	Warboys Somersham and Pidley Internal Drainage Board			
-IDB103	Waterbeach Internal Drainage Board			
-IDB104	Wavenery Lower Yare and Lothingland Internal Drainage Board	uksi-2006-2140	01/09/2006	
-IDB105	Welland and Deepings Internal Drainage Board			
-IDB107	Whittlesey and District Internal Drainage Board	uksi-2011-814		
-IDB108	Witham First District Internal Drainage Board			
-IDB109	Witham Third District	uksi-1993-910		
-IDB110	Witham Fourth District Internal Drainage Board	uksi-2011-437		
-IDB111	Woodwalton Internal Drainage Board			
-IDB112	North Kent Marshes Internal Drainage Board	uksi-2016-859	23/08/2016	
-IDB113	Pevensey and Cuckmere Water Level Management Board	uksi-2016-854	01/10/2016	
-IDB116	River Arun Internal Drainage District			
